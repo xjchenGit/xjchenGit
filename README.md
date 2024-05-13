@@ -4,3 +4,4 @@
 ### Contact 👋
 - 🏠 Personal Website: [my homepage](https://xjchen.tech)
 - 📖 Publications: [google scholar](https://scholar.google.com/citations?user=ZDVOXd4AAAAJ&hl=en)
+- 📩 Email: [d12942018@ntu.edu.tw](d12942018@ntu.edu.tw)
